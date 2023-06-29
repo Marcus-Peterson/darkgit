@@ -50,7 +50,7 @@ Join the DarkWebAI-Hub community and engage in discussions and collaboration.
 
 ## 📜 License
 
-DarkGit is licensed under the MIT License and based of the original git source code. See [LICENSE](#) for details.
+DarkGit is licensed under the GPLv2 license and based of the original git source code. See [LICENSE](#) for details.
 
 ## 👏 Acknowledgments
 
